@@ -1,0 +1,26 @@
+"keywords":"1 chicken 4 meals, 4 meals, bbq chicken pita pizza, bbq chicken pizza, chef salad, chicken, chicken fried rice, chicken meal prep, chicken recipe ideas, chicken recipes, chicken salad, chicken tortilla soup, honey mustard, honey mustard salad, multiple ways to use rotisserie chicken, pita pizza, recipe ideas, recipes, rotisserie chicken, rotisserie chicken pizza, rotisserie chicken recipe ideas, rotisserie chicken recipes, rotisserie chicken salad, rotisserie chicken soup, tortilla soup",
+
+"author":[{"@type":"Person","name":"Crystal Hatch"}],
+
+"nutrition":{"@type":"NutritionInformation",
+
+"calories":"1538 calories",
+"carbohydrateContent":"201 grams",
+"fatContent":"47 grams",
+"fiberContent":"12 grams",
+"proteinContent":"75 grams",
+"sugarContent":"10 grams"},
+"recipeIngredient":["1 tablespoon cooking oil, of preference","1 clove garlic, minced","¼ cup white onion, diced","1 carrot, sliced","¼ cup frozen corn","¼ cup frozen peas","1 cup brown rice, cooked","1 cup rotisserie chicken, shredded","1 egg, scrambled","1 tablespoon soy sauce","½ tablespoon sesame oil","salt, to taste","pepper, to taste","green onion, for garnish","sesame seed, for garnish"],
+"recipeYield":"1 serving",
+"recipeInstructions":[{"@type":"HowToStep","text":"In a large skillet heat oil over medium heat. Add garlic, onion, carrot, corn, and peas. Cook until carrots are tender, stirring occasionally."},{"@type":"HowToStep","text":"Add brown rice, chicken, egg, soy sauce, sesame oil, salt, and pepper to taste, and stir. Cook for another minute, or until everything is heated thoroughly."},{"@type":"HowToStep","text":"Serve with a sprinkle of sesame seeds and green onion."},{"@type":"HowToStep","text":"Enjoy!"}],
+
+"aggregateRating":{"@type":"AggregateRating","ratingValue":"98","ratingCount":"869","bestRating":"100","worstRating":"0"},
+
+"cookingMethod":"Pan Fry",
+"recipeCategory":"Sides",
+"recipeCuisine":"American","tool":"Wooden Spoon",
+"totalTime":"PT30M",
+"video":{"@type":"VideoObject","contentUrl":"https://vid.tasty.co/output/59232/mp4_640x640/1509474932","duration":"PT2M44S","description":"Here's what you need: cooking oil, garlic, white onion, carrot, frozen corn, frozen peas, brown rice, rotisserie chicken, egg, soy sauce, sesame oil, salt, pepper, green onion, sesame seed","name":"Chicken Fried Rice Recipe by Tasty",
+
+"publisher":{"@type":"Organization","name":"Tasty","logo":{"@type":"ImageObject","url":"https://tasty.co/favicon.ico"}},"thumbnailUrl":"https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5771490057ff462094b2e79260b2d9c0/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg","uploadDate":"2017-10-31T17:40:52"}}</script><script type="application/ld+json">{"@context":"http://schema.org","@type":"VideoObject","contentUrl":"https://vid.tasty.co/output/59232/mp4_640x640/1509474932","duration":"PT2M44S","description":"Here's what you need: cooking oil, garlic, white onion, carrot, frozen corn, frozen peas, brown rice, rotisserie chicken, egg, soy sauce, sesame oil, salt, pepper, green onion, sesame seed","name":"Chicken Fried Rice Recipe by Tasty","publisher":{"@type":"Organization","name":"Tasty","logo":{"@type":"ImageObject","url":"https://tasty.co/favicon.ico"}},"thumbnailUrl":"https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5771490057ff462094b2e79260b2d9c0/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg","uploadDate":"2017-10-31T17:40:52"}
+
